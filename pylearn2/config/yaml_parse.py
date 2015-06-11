@@ -1,3 +1,4 @@
+import __humanactivityrecognition__
 """Support code for YAML parsing of experiment descriptions."""
 import yaml
 from pylearn2.utils import serial
